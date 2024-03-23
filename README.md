@@ -13,4 +13,6 @@ These may require further sorting as desired as they occationally have non-targe
 
 And then enter the URL list .txt file, and the desired target URL (i.e. https://example.com), and it'll create a "-sorted.txt" file which will only include all the lines that start with your desired URL.
 
+Once the list has been generated, I'd strongly recommend passing every URL into Monolith for archiving. A simple script to achive this is here: https://github.com/Xwarli/urls-to-monolith/tree/main
+
 
